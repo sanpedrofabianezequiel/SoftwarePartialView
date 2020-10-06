@@ -1,0 +1,8 @@
+﻿@model List<SoftwarePartialView.Models.Persona>
+
+@foreach (var item in (List<SoftwarePartialView.Models.Persona>) Model)
+{
+    <div>
+        <span>@item.Nombre (@item.Edad)</span>
+    </div>
+}

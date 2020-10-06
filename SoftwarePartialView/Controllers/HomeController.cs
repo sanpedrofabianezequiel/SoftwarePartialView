@@ -24,6 +24,13 @@ namespace SoftwarePartialView.Controllers
 
         public ActionResult About()
         {
+            var personas = new List<Persona>()
+            {
+                new Persona(){ Nombre="Marcela",Edad=18},
+                new Persona(){ Nombre="Henry",Edad=40},
+                new Persona(){ Nombre="Daniela",Edad=27}
+            };
+            ViewBag.MiListado = personas;
             ViewBag.Message = "Your application description page.";
 
             return View();

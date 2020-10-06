@@ -3,9 +3,5 @@
     ViewBag.Title = "Home Page";
 }
 
-@foreach(var item in ViewBag.MiListado)
-{
-    <div>
-        <span>@item.Nombre (@item.Edad)</span>
-    </div>
-}
+<!--Llamamos a nuestra vista Parcial-->
+@Html.Partial("_ListadoPersonas",(List<SoftwarePartialView.Models.Persona>) ViewBag.MiListado)
