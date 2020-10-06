@@ -83,3 +83,8 @@ C:\Users\sanpe\source\repos\SoftwarePartialView\SoftwarePartialView\obj\Debug\So
 C:\Users\sanpe\source\repos\SoftwarePartialView\SoftwarePartialView\obj\Debug\SoftwarePartialView.csproj.CopyComplete
 C:\Users\sanpe\source\repos\SoftwarePartialView\SoftwarePartialView\obj\Debug\SoftwarePartialView.dll
 C:\Users\sanpe\source\repos\SoftwarePartialView\SoftwarePartialView\obj\Debug\SoftwarePartialView.pdb
+C:\Users\sanpe\source\repos\SoftwarePartialView\SoftwarePartialView\bin\EntityFramework.dll
+C:\Users\sanpe\source\repos\SoftwarePartialView\SoftwarePartialView\bin\EntityFramework.SqlServer.dll
+C:\Users\sanpe\source\repos\SoftwarePartialView\SoftwarePartialView\bin\EntityFramework.xml
+C:\Users\sanpe\source\repos\SoftwarePartialView\SoftwarePartialView\bin\EntityFramework.SqlServer.xml
+C:\Users\sanpe\source\repos\SoftwarePartialView\SoftwarePartialView\obj\Debug\SoftwarePartialView.csprojAssemblyReference.cache
