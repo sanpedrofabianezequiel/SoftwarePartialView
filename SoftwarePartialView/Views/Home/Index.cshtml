@@ -1,0 +1,11 @@
+﻿@model SoftwarePartialView.Models.Persona
+@{
+    ViewBag.Title = "Home Page";
+}
+
+@foreach(var item in ViewBag.MiListado)
+{
+    <div>
+        <span>@item.Nombre (@item.Edad)</span>
+    </div>
+}
